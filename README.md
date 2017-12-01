@@ -6,8 +6,8 @@ This is my 360 project
 
 theme: jeky11-theme-cayman
 
-title: TechStart Portfolio
+Camera Effects
 
-description: I am working through the 5 TechStart projects. Lawson Wilkins
+This is my Camera Effects Project.
 
-***
+![title](Stuff_she_likes.png?raw=true "Other Title")
